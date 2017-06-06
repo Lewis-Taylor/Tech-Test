@@ -51,6 +51,7 @@
     <Compile Include="GiftAidShould.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TaxRateShould.cs" />
+    <Compile Include="UserDonationShould.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -54,9 +54,11 @@
     <Compile Include="GiftAidRounder.cs" />
     <Compile Include="Interfaces\ICalculateGiftAid.cs" />
     <Compile Include="Interfaces\ITaxRateRepository.cs" />
+    <Compile Include="Interfaces\IValidateInput.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\TaxRateRepository.cs" />
+    <Compile Include="ValidateInput.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
